@@ -6,7 +6,7 @@
 
 <p align="center">Currently, I’m in the third term of Data Science for Business at the Federal University of Paraíba (UFPB). Passionate about using data to generate insights and solve problems, I combine analytical, programming, and business skills. My interests include Machine Learning, Business Intelligence, Data Visualization, Statistical Analysis, and Big Data Analytics, with experience in Python, R, SQL, and Power BI.
 
-I’m particularly focused on Predictive Modeling, Customer Analytics, and Process Optimization to address real-world business challenges. Skilled in ETL processes, data storytelling, and interactive dashboards, I thrive in collaborative, innovative environments that value continuous learning and teamwork. Feel free to contact me! </p>
+<p align="center">I’m particularly focused on Predictive Modeling, Customer Analytics, and Process Optimization to address real-world business challenges. Skilled in ETL processes, data storytelling, and interactive dashboards, I thrive in collaborative, innovative environments that value continuous learning and teamwork. Feel free to contact me! </p>
 
 <br>
 
@@ -27,7 +27,7 @@ I’m particularly focused on Predictive Modeling, Customer Analytics, and Proce
 <br>
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/lucasbivar/count.svg" />
+  <img src="https://profile-counter.glitch.me/KaioVFT/count.svg" />
 </p>
 
 <table>
