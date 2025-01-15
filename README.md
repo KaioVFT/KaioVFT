@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  I’m particularly focused on Predictive Modeling, Customer Analytics, and Process Optimization to address real-world business challenges. Skilled in ETL processes, data storytelling, and interactive dashboards, I thrive in collaborative, innovative environments that value continuous learning and teamwork. Feel free to contact me!
+  I’m particularly focused on Predictive Modeling, Customer Analytics, and Process Optimization to address real-world business challenges. I enjoy performing ETL processes, data storytelling, and interactive dashboards, I thrive in collaborative, innovative environments that value continuous learning and teamwork. Feel free to contact me!
 </p>
 
 <h2 align="center"> Languages and Tools: </h2>
