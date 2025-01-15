@@ -1,10 +1,10 @@
 <p align='center'>
-<img src="https://imgur.com/JS8cVfK.gif">&nbsp;&nbsp;
+<img src="https://i.imgur.com/a/xs94oiH.gif">&nbsp;&nbsp;
 </p>
 
 <h1 align="center"> Hey there 👋 </h1>
 
-<p align="center">Currently, I’m in the third term of Data Science for Business at the Federal University of Paraíba (UFPB). Passionate about using data to generate insights and solve problems, I combine analytical, programming, and business skills. My interests include Machine Learning, Business Intelligence, Data Visualization, Statistical Analysis, and Big Data Analytics, with experience in Python, R, SQL, and Power BI.
+<p align="center">Currently, I’m in the third term of Data Science for Business at the Federal University of Paraíba (UFPB). Passionate about using data to generate insights and solve problems, I combine analytical, programming, and business skills. My interests include Machine Learning, Business Intelligence, Data Visualization, Statistical Analysis, and Big Data Analytics, with experience in Python, SQL, and Power BI.
 
 <p align="center">I’m particularly focused on Predictive Modeling, Customer Analytics, and Process Optimization to address real-world business challenges. Skilled in ETL processes, data storytelling, and interactive dashboards, I thrive in collaborative, innovative environments that value continuous learning and teamwork. Feel free to contact me! </p>
 
@@ -16,6 +16,9 @@
 
 <p align="center">
   <img width="44px" src="https://i.imgur.com/BgjSjn9.png">
+  <img width="44px" src="https://i.imgur.com/W3HyYnv.png">
+  <img width="44px" src="https://i.imgur.com/rB2n4WD.png">
+  <img width="44px" src="https://i.imgur.com/lk39Pbw.png">
 </p>
 
 <br>
