@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/WIycIEM">
+  <img src="https://i.imgur.com/WIycIEM.gif" alt="GIF not loaded">
 </p>
 
 <h1 align="center"> Hey there 👋 </h1>
