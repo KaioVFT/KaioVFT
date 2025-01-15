@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="C:\Users\kaiov\Documents\nada\EU\READMEBANNER.gif" alt="GIF not loaded">
+  <img src="https://i.imgur.com/WIycIEM" alt="GIF not loaded">
 </p>
 
 <h1 align="center"> Hey there 👋 </h1>
