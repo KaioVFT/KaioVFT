@@ -5,7 +5,7 @@
 <h1 align="center"> Hey there 👋 </h1>
 
 <p align="center">
-  Currently, I’m in the third term of Data Science for Business at the Federal University of Paraíba (UFPB). Passionate about using data to generate insights and solve problems, I combine analytical, programming, and business skills. My interests include Machine Learning, Business Intelligence, Data Visualization, Statistical Analysis, and Big Data Analytics, with experience in Python, SQL, and Power BI.
+  Currently, I’m in the third term of Data Science for Business at the Federal University of Paraíba (UFPB). Passionate about using data to generate insights and solve problems, I combine analytical, programming, and business skills. My interests include Business Intelligence, Data Visualization and Big Data Analytics, with experience in Python, SQL, and Power BI.
 </p>
 
 <p align="center">
